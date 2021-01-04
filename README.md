@@ -1,18 +1,10 @@
 ### Hi there, I'm Racim
 
-## I'm a 21yo, 3rd computer science student at CY Paris Cergy Université, France.
-
-🔭
+## 🔭 I'm a 21yo, 3rd computer science student at CY Paris Cergy Université, France.
 
 - 🌱 I’m currently learning Machine Learning and Deep Learning in Python.
 - 👯 I’m looking for a 3 months minimum internship starting April 2021.
-- 🥅 2020 Goals: Contribute more to Open Source projects,
-
----
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-racimrgh.vercel.app/api/spotify-playing" alt="RacimRgh Spotify Playing" width="350" />](https://open.spotify.com/user/j7eavs218u3lo9gn806fpyaxs)
+- 🥅 2021 Goals: Contribute more to Open Source projects, learn new stuff, work on bigger projects, volunteer more.
 
 ---
 
@@ -32,7 +24,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/react-native/react-native.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
