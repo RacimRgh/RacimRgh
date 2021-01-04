@@ -4,7 +4,7 @@
 
 🔭
 
-- 🌱 I’m currently Machine Learning and Deep Learning in Python.
+- 🌱 I’m currently working on Machine Learning and Deep Learning in Python.
 - 👯 I’m looking for an internship starting April 2021
 - 🥅 2020 Goals: Contribute more to Open Source projects,
 
