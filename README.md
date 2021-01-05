@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Machine Learning and Deep Learning in Python.
 - 👯 I’m looking for a 3 months minimum internship starting April 2021 in Île-De-France.
-- 🥅 2021 Goals: Contribute more to Open Source projects, learn new stuff, work on bigger projects, volunteer more.
+- 🥅 2021 Goals: Contribute more to Open Source projects, learn new stuff, work on bigger projects and volunteer.
 
 ---
 
