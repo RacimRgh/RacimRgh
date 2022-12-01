@@ -1,9 +1,9 @@
 ### Hi there, I'm Racim
 
-## 🔭 I'm a 22yo, student at University de Paris Descartes in M1 - Machine Learning for Data Science and apprentice at DataValue Consulting.
+## 🔭 I'm a 23yo, student at University de Paris Descartes in M2 - Machine Learning for Data Science and apprentice at Mobilize Financial Service, Renault Group.
 
 - 🌱 I’m currently learning Machine Learning and Deep Learning in Python.
-- 🥅 2021 Goals: Contribute more to Open Source projects, learn new stuff, work on bigger projects and volunteer.
+- 🥅 2023 Goals: Contribute more to Open Source projects, learn new stuff, work on bigger projects and volunteer.
 
 ---
 
